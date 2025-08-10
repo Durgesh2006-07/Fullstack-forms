@@ -1,0 +1,35 @@
+ <style>
+        body{
+            font-family: sans-serif;
+            margin: 100px;
+            padding-left: 450px;
+        }
+        label{
+            display:block;
+            margin: 5px;
+        }
+        article{
+            border: 1px solid white;
+            width: 200px;
+            padding: 60px;
+            border-radius: 10px;
+            background-color: rgba(230,230,230,0.786);
+        input{
+            background-color:rgba(230,230,230,0.786);
+        }
+        }
+        .button{
+            margin-top: 15px;
+            width: 175px;
+            border: none;
+            background-color: rgb(26, 193, 0);
+            color: white;
+        }
+        .SuperStar{
+            margin-top: 15px;
+            width: 175px;
+            border: none;
+            background-color: rgb(8, 26, 193);
+            color: white;
+        }
+</style>
